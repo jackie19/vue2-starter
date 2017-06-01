@@ -42,7 +42,7 @@
 1. [更多第三方工具类库/plugin](docs/tools.md) 
     1. [List of User Contributed Tools](https://github.com/vuejs/awesome-vue#libraries--plugins)
 1. [Webpack](http://webpackdoc.com/) 前端资源模块化管理和打包工具
-1. [LESS](http://lesscss.cn/)、SASS
+1. [LESS](http://lesscss.cn/)、[SCSS](http://www.ruanyifeng.com/blog/2012/06/sass.html)
 1. [ES6](http://es6.ruanyifeng.com)
 1. [ESLint](http://eslint.org/docs/user-guide)
 1. 开发工具： 
